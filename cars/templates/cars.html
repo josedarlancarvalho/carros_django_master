@@ -2,8 +2,9 @@
     <head>
         <title>Meus carros</title>
     </head>
-    <body>
-        <h1>carros da pycode</h1>
-        <h3>so carro massa</h3>
-    </body>
+    {% block content %}
+        <body>
+            <h3>carro 1: {{ cars.model }}</h3>
+        </body>
+    {% endblock %}
 </html>
