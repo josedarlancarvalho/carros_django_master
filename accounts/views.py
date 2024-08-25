@@ -1,6 +1,7 @@
 from django.contrib.auth.forms import UserCreationForm, AuthenticationForm
 from django.contrib.auth import authenticate, login, logout
 from django.shortcuts import render, redirect
+from django.views import View
 
 def register_view(request):
     if request.method == "POST":
@@ -29,3 +30,4 @@ def login_view(request):
 def logout_view(request):
     logout(request)
     return redirect('cars_list')
+
