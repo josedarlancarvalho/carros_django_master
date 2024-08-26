@@ -2,6 +2,16 @@
 
 Um e-commerce para uma loja de carros do curso Django Master, da plataforma PyCodeBr, desenvolvido usando Django.
 
+O projeto é uma aplicação Django para uma loja de carros, que permite gerenciar o inventário de veículos. Aqui está uma visão geral das funcionalidades:
+
+-Exibe uma lista de carros, com a opção de ordenar por modelo e filtrar por um termo de busca.
+-Permite adicionar novos carros ao inventário através de um formulário.
+-Exibe os detalhes de um carro específico.
+-Facilita a edição das informações de um carro existente.
+-Permite excluir um carro do inventário.
+
+Essas funções tornam a gestão de carros simples e eficiente, permitindo adicionar, visualizar, atualizar e excluir veículos conforme necessário.
+
 ## Tabela de Conteúdos
 - [Capturas de Tela](#capturas-de-tela)
 - [Instalação](#instalação)
