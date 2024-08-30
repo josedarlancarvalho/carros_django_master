@@ -1,6 +1,6 @@
 # Carros Django Master
 
-Um e-commerce para uma loja de carros do curso Django Master, da plataforma PyCodeBr, desenvolvido usando Django.
+Um e-commerce para uma loja de carros do curso Django Master, da plataforma PyCodeBr, desenvolvido usando o framework Django.
 
 ## Sobre o Projeto
 
